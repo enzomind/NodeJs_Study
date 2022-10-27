@@ -14,3 +14,6 @@ if(isMainThread) { //부모일 때
         parentPort.close();
     });
 }
+
+
+
