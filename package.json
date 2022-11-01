@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_study",
+  "version": "0.0.1",
+  "description": "NodeJS study sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enzomind/NodeJs_Study.git"
+  },
+  "author": "Enzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enzomind/NodeJs_Study/issues"
+  },
+  "homepage": "https://github.com/enzomind/NodeJs_Study#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
